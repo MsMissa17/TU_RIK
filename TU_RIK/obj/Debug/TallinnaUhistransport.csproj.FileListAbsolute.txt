@@ -1,0 +1,10 @@
+C:\Users\Laptop\Documents\CsharpRIK\TallinnaUhistransport\TallinnaUhistransport\bin\Debug\TallinnaUhistransport.exe.config
+C:\Users\Laptop\Documents\CsharpRIK\TallinnaUhistransport\TallinnaUhistransport\bin\Debug\TallinnaUhistransport.exe
+C:\Users\Laptop\Documents\CsharpRIK\TallinnaUhistransport\TallinnaUhistransport\bin\Debug\TallinnaUhistransport.pdb
+C:\Users\Laptop\Documents\CsharpRIK\TallinnaUhistransport\TallinnaUhistransport\obj\Debug\TallinnaUhistransport.csprojAssemblyReference.cache
+C:\Users\Laptop\Documents\CsharpRIK\TallinnaUhistransport\TallinnaUhistransport\obj\Debug\TallinnaUhistransport.Form1.resources
+C:\Users\Laptop\Documents\CsharpRIK\TallinnaUhistransport\TallinnaUhistransport\obj\Debug\TallinnaUhistransport.Properties.Resources.resources
+C:\Users\Laptop\Documents\CsharpRIK\TallinnaUhistransport\TallinnaUhistransport\obj\Debug\TallinnaUhistransport.csproj.GenerateResource.cache
+C:\Users\Laptop\Documents\CsharpRIK\TallinnaUhistransport\TallinnaUhistransport\obj\Debug\TallinnaUhistransport.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Documents\CsharpRIK\TallinnaUhistransport\TallinnaUhistransport\obj\Debug\TallinnaUhistransport.exe
+C:\Users\Laptop\Documents\CsharpRIK\TallinnaUhistransport\TallinnaUhistransport\obj\Debug\TallinnaUhistransport.pdb
